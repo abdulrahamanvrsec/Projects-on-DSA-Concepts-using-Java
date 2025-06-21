@@ -1,60 +1,90 @@
-# Projects-on-DSA-Concepts-using-Java
+# 📌 Projects-on-DSA-Concepts-using-Java
 
-📌 Java Projects Collection
-Welcome to Projects on DSA Concepts using java repository! This repository contains multiple Java-based projects, ranging from data structures and algorithms (DSA) implementations to GUI-based applications. Each project is designed to enhance problem-solving skills and practical Java programming knowledge.
+Welcome to **Projects on DSA Concepts using Java**!  
+This repository contains multiple Java-based projects, from core data structures and algorithms (DSA) to GUI-based applications. Each project helps reinforce key programming concepts through real-world logic and clean user interfaces.
 
-🚀 Projects Overview
-1️⃣ Project Launcher (GUI-Based)
-A GUI-based project launcher that allows users to run different Java projects from a single interface.
+---
 
-🔹 Features:
-✅ Interactive GUI using Swing
-✅ Navigation between multiple projects
-✅ Simple and user-friendly
+## 🚀 Projects Overview
 
-2️⃣ Snake Game (Swing & AWT)
-A classic snake game developed in Java using Swing and AWT.
+### 1️⃣ Project Launcher (GUI-Based)
+A GUI-based launcher that allows users to run different Java projects from one interface.
 
-🔹 Features:
-✅ Pixel-based movement of the snake
-✅ Score tracking system
-✅ Collision detection
+**Features:**
+- ✅ Interactive GUI using Swing
+- ✅ Easy navigation across projects
+- ✅ One-click execution
 
-3️⃣ File Compression (Huffman Encoding)
-A file compressor that uses Huffman encoding to compress and decompress files.
+---
 
-🔹 Features:
-✅ Huffman Tree implementation
-✅ File compression and decompression
-✅ GUI-based file selection
+### 2️⃣ Snake Game (Swing & AWT)
+A classic snake game built using Java Swing and AWT.
 
-4️⃣ Cash Flow Minimizer (Graph Algorithm)
-An algorithmic project that optimizes cash transactions among people to minimize the total number of payments.
+**Features:**
+- ✅ Smooth pixel-based snake movement
+- ✅ Real-time score tracking
+- ✅ Collision detection (walls and self)
 
-🔹 Features:
-✅ Uses Graphs, Heaps, and Multisets
-✅ Computes the minimum number of transactions
-✅ Provides an optimal settlement strategy
+---
 
-5️⃣ Sudoku Solver (Backtracking Algorithm)
-A Sudoku solver that automatically fills in valid numbers using backtracking algorithms.
+### 3️⃣ File Compression (Huffman Encoding)
+Compress and decompress files using Huffman encoding.
 
-🔹 Features:
-✅ Supports 9x9 Sudoku puzzles
-✅ Solves in real time
-✅ Optimized recursive approach
+**Features:**
+- ✅ Huffman Tree data structure
+- ✅ File compression/decompression logic
+- ✅ GUI for file selection
 
-📜 Requirements
-✔ Java JDK 8+
-✔ IntelliJ IDEA / Eclipse / VS Code
-✔ (Optional) JAR files for dependencies
+---
+
+### 4️⃣ Cash Flow Minimizer (Graph Algorithm)
+Optimizes payments among friends to minimize the total number of transactions.
+
+**Features:**
+- ✅ Uses Graphs and Heaps
+- ✅ Net balance calculation
+- ✅ Greedy settlement of debts
+
+---
+
+### 5️⃣ Sudoku Solver (Backtracking Algorithm)
+Solves standard 9x9 Sudoku puzzles using recursive backtracking.
+
+**Features:**
+- ✅ Real-time solution display
+- ✅ Backtracking logic
+- ✅ Simple Swing interface
+
+---
+
+### 6️⃣ 🗺️ Map Navigator (Dijkstra’s Algorithm)
+A path-finding GUI application that calculates the shortest route between two locations using **Dijkstra’s Algorithm**.
+
+**Features:**
+- ✅ Interactive GUI to input start and end locations
+- ✅ Calculates and displays the shortest path
+- ✅ Uses **Graph** and **Priority Queue** internally
+- ✅ Helps visualize pathfinding via Dijkstra’s logic
+
+---
+
+## 📜 Requirements
+
+- ✔ Java JDK 8 or higher
+- ✔ IntelliJ IDEA / Eclipse / VS Code
+- ✔ (Optional) External JARs if needed for GUI enhancements
+
+---
+
+## 💡 How to Use These Projects
+
+1. 📁 **Download all the project files** into a single folder on your PC.
+2. 🧪 **Compile and run individual `.java` files** using your preferred IDE or terminal.
+3. 🖥️ For **quick access to all GUI projects**, just run:
+   ```bash
+   ProjectLauncher.java
 
 
-
-"HOW TO USE THIS PROJECTS "
-1. DOWNLOAD ALL THE CODES IN ONE FLODER IN YOU ARE PC
-2. COMPILE AND RUN THE PROGRAMS
-3. FOR QUICK GUI ACESSES RUN ONLY "PROJECTlAUNCHER.JAVA" FILE .
 
 ![image](https://github.com/user-attachments/assets/665e6590-1c74-4db6-aacf-fabffd2b4d2c)
 ![image](https://github.com/user-attachments/assets/a1190eb6-3d47-4d36-8ccb-95d7c5770328)
